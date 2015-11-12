@@ -1,5 +1,5 @@
 # WebRTC-reveal.js
-Presentation with WebRTC Demo
+Präsentation über WebRTC mithilfe von reveal.js
 
 # Voraussetzungen
 1. Node.js
@@ -8,7 +8,7 @@ Presentation with WebRTC Demo
 #Anleitung zu den Videofeatures
 
 1. Node-Module in "SimpleWebRTC-master" installieren mithilfe von "npm install" in der Eingabeaufforderung
-2. index.html mit Firefox öffnen
+2. index.html aus "reveal.js-master" mit Firefox öffnen
 3. Zugriff auf Webcam erlauben (Video auf dritter Folie, Code in Folie darunter)
 4. Auf Folie 4 angekommen zunächst "node server.js" in "SimpleWebRTC-master" in der Eingabeaufforderung ausführen.
    Anschließend auf "nochmal versuchen" klicken. 
